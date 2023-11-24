@@ -1,0 +1,1 @@
+# publishing-from-smc-view 
